@@ -1,0 +1,19 @@
+name: NIM_Tugas7
+description: A simple but stylish Flutter app implementing routes, login, side menu, and local storage (shared_preferences).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
