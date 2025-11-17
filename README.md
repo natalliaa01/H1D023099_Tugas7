@@ -1,5 +1,5 @@
 
-# Tugas 6 Pertemuan 8
+# Tugas 7 Pertemuan 9
 
 ## Data Diri
 -   **Nama:** `Natalia Nidya Fidelia`
@@ -205,6 +205,8 @@ flutter run
 
 ---
 
-# 📸 Screenshot
-![Login](assets/screenshots/login.png)
-![Home](assets/screenshots/home.png)
+# Screenshot
+<img width="288" height="192" alt="Image" src="https://github.com/user-attachments/assets/38718016-39f3-4488-9294-a940091f7138" />
+<img width="288" height="192" alt="Image" src="https://github.com/user-attachments/assets/02483914-59aa-40ba-88d0-a6152407fd10" />
+<img width="288" height="192" alt="Image" src="https://github.com/user-attachments/assets/cfb092bd-cd5b-49a6-b473-cf7519472572" />
+<img width="288" height="192" alt="Image" src="https://github.com/user-attachments/assets/415d7d15-d46b-444e-8c66-1da56264da4d" />
